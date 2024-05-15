@@ -1,8 +1,8 @@
 ## Olá👋!! eu sou o João Victor, desenvolvedor Java focado em mais conhecimento!
 <div align="center">
   <a href="https://github.com/joaocalca">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=joaocalca&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaocalca&layout=compact&langs_count=4&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=joaocalca&theme=onedark&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
+  <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joaocalca&layout=compact&theme=onedark&border_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
