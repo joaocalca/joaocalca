@@ -1,7 +1,5 @@
 # Olá👋, eu sou o João!
-<div>
-  <img alt="Views" src="https://views.whatilearened.today/views/github/joaocalca/joaocalca.svg">
-</div>
+[![Visitor](https://komarev.com/ghpvc/?username=joaocalca&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/joaocalca)
 
 ### Sobre mim
 <img alt="Dev" src="https://img.freepik.com/photos-gratuite/portrait-3d-personnes_23-2150793856.jpg?semt=ais_hybrid" width="400" align="right" style="margin-left: 100px;">
