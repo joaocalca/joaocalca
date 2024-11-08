@@ -1,4 +1,4 @@
-# Olá, sou o João 🧑🏻‍💻!
+# Olá, sou o João Victor Calça 🧑🏻‍💻
 <div>
   <img alt="Views" src="https://views.whatilearened.today/views/github/joaocalca/joaocalca.svg">
 </div>
