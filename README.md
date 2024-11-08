@@ -1,4 +1,4 @@
-# Olá👋, eu sou o João!
+# Olá, sou o João 🧑🏻‍💻!
 <div>
   <img alt="Views" src="https://views.whatilearened.today/views/github/joaocalca/joaocalca.svg">
 </div>
