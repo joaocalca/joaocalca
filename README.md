@@ -9,7 +9,7 @@
   Ingressei na área de desenvolvimento de software em 2023, atuando como desenvolvedor backend. Tenho sólida experiência em implementações de APIs REST com Java e Spring Boot, em arquitetura de Microsserviços, em utilização de containers com Docker e também Mensageria entre aplicações.
 </p>
 
-### Tecnologias
+### 🦾 Tecnologias
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -24,10 +24,10 @@
 
 ---
 
-### GitHub Stats
+### 🚀 GitHub Stats
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joaocalca&layout=compact&theme=onedark&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ---
-
+### 📫 Entre em contato
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaovictorcalca/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:desenvolvimento.joaocalca@gmail.com)
